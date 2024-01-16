@@ -1,3 +1,9 @@
-This is created as a sample test......
+Thus we have confirmed that
 
-this change is to check whether the changes are reflected in the arun branch
+the training data are build into the 
+
+training 1 txt file from 
+
+the arun branch and can be reflected......
+
+..................
